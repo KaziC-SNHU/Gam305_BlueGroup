@@ -5,7 +5,7 @@ Team Lead: Matthew C\
 Head Level Designer: Carlos P\
 Head UX Designer: Jon B\
 Head Programmer: Matthew C\
-Head Artist: Ruben G\
+Head Artist: Ruben G
 
 # Gam 305 Blue Team Project Design Log
 Members Present: Matthew C, Carlos P, Ruben G, Jon B\
