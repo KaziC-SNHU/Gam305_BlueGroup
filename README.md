@@ -1,5 +1,4 @@
 # Game 305 Blue Team Design Document
-Missing Team Members please meet up with us in the discord!
 
 Team Lead: Matthew C\
 Head Level Designer: Carlos P\
@@ -8,7 +7,7 @@ Head Programmer: Matthew C\
 Head Artist: Ruben G
 
 # Gam 305 Blue Team Project Design Log
-Members Present: Matthew C, Carlos P, Ruben G, Jon B\
+Members Present: Matthew C, Carlos P, Ruben G, Jon B
 ## <ins>Brainstorming Scenario, Theme, and Additions</ins>
 We opened our discussion with a decision on the main scenario. We decided on developing a fantasy-esque 3D sidescroller where the player is attempting to reach the end of the scenario through various obstacles.\
 The player will have to utilize their available spells, navigate their environment, and solve simple puzzle to move through obstacles.\
@@ -31,7 +30,7 @@ Alpha stage is planned to include a basic level blockout, essential controls for
 
 ## <ins>Beta Stage</ins>
 The Beta Stage is planned to include essentially the entirety, or most of, the playable game. This includes, but is not necessarily limited to, developed levels, obstacles, enemies, collectibles,
-a minimum of three spells, fleshed out pickups, and anything else that is required for the game submission. All of these will likely remained untextured at this point in time.
+a minimum of three spells, fleshed out pickups, and anything else that is required for the game submission.
 
 ## <ins>Communication</ins>
 Preferred communication method may change as required, but for the moment we are present in the class discord through text and voice chat.\
