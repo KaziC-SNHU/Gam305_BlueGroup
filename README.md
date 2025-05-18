@@ -7,6 +7,7 @@ Head Programmer: Matthew C\
 Head Artist: Ruben G
 
 # Gam 305 Blue Team Project Design Log
+# Module Two Team Project Plan
 Members Present: Matthew C, Carlos P, Ruben G, Jon B
 ## <ins>Brainstorming Scenario, Theme, and Additions</ins>
 We opened our discussion with a decision on the main scenario. We decided on developing a fantasy-esque 3D sidescroller where the player is attempting to reach the end of the scenario through various obstacles.\
