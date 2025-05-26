@@ -44,9 +44,9 @@ Task assignments are handled through the aforementioned [Traceability Matrix & T
 # Module Three Project Log - Team Development: QA and Testing Plan
 Members Present: Matthew C, Carlos P, Ruben G, Jon B
 ## Test Planning
-Our testplanning includes a page in our Traceability matrix document including reports, dates, checklists, and the function tested.\
-This also is a place for recording bugs, resolutions, and changes regarding the aforementioned bugs.\
-We regularly test work done by ourselves or other developers as well, conferring about it in text or voice chats.\
-This regular testing is currently primarily focused on our pre-production phase work (the pre-alpha).\
-However, this also applies to when we move to our demo: Regular tests will be conducted on features as they come along,\
+Our testplanning includes a page in our Traceability matrix document including reports, dates, checklists, and the function tested.
+This also is a place for recording bugs, resolutions, and changes regarding the aforementioned bugs.
+We regularly test work done by ourselves or other developers as well, conferring about it in text or voice chats.
+This regular testing is currently primarily focused on our pre-production phase work (the pre-alpha).
+However, this also applies to when we move to our demo: Regular tests will be conducted on features as they come along,
 and just as well major tests will be done on playability and the 'vibe' of the game once a week. This is especially important before major releases or submissions.
