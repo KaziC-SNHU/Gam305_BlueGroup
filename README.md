@@ -50,3 +50,14 @@ We regularly test work done by ourselves or other developers as well, conferring
 This regular testing is currently primarily focused on our pre-production phase work (the pre-alpha).
 However, this also applies to when we move to our demo: Regular tests will be conducted on features as they come along,
 and just as well major tests will be done on playability and the 'vibe' of the game once a week. This is especially important before major releases or submissions.
+
+# Module Four Project Log - Team Reflection
+Members Present: Matthew C, Carlos P, Ruben G, Jon B
+## The Testing Process
+The testing process was efficient, with no real issues. Any bugs were resolved as the item was being implemented into the game, so the only real testing needed was to get the general "vibe" of everything put together.\
+Bugs were identified through intermittent testing during production, noted in the discord or on the google sheet, and then resolved either alone or with group effort.\
+The only thing that could be done to improve the testing process is better maintaining the testing plan, which is something that should be practiced.\
+The only tools the team utilized were Unreal Engine 5, GitHub, and our google sheet and Discord for communication. These tools were all either absolutely essentially or incredibly helpful.\
+The team did not find any tools unhelpful or counterproductive.\
+The team's approach to the game design document promoted, due to its simplicity, a simple approach and thus motivated us to use few tools, only accessing what we needed in order to be successful.
+This approach seems to be working efficiently thus far, and keeps the bloat down on how many things each member is managing.
