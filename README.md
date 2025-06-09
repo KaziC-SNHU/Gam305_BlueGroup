@@ -61,3 +61,12 @@ The only tools the team utilized were Unreal Engine 5, GitHub, and our google sh
 The team did not find any tools unhelpful or counterproductive.\
 The team's approach to the game design document promoted, due to its simplicity, a simple approach and thus motivated us to use few tools, only accessing what we needed in order to be successful.
 This approach seems to be working efficiently thus far, and keeps the bloat down on how many things each member is managing.
+
+# Module Five Project Log - Team Reflection
+Members Present: Matthew C, Carlos P, Ruben G, Jon B
+## Beta Post Mortem
+This evolution of our game went rather smoothly. All group members did our parts and the workflow was as smooth as could be. There were a couple of hiccups--Unreal Engine decided to corrupt our map, player, and HUD files for some reason,
+but this was quickly resolved by simply extracting the files of a previous commit. The main focus of our Beta release was getting essential mechanics into play and taking feedback from the previous evaluation. While there is more to do to
+guide the player, we implemented player guidance in the form of colored stones attached to doors and levers. This made the game feel a bit more navigable, and opened the door for our current work and plans: to add a map, available at checkpoints,
+and add more prompts for the user. We've all done the best we can, given that everyone has a real life outside of this project, and it's coming along rather smoothly. There weren't really any tools that were unhelpful or a hinderance, as we've kept it
+all rather simple, and stuck with the same tools as we have been using. Our final project is set to come out on schedule.
