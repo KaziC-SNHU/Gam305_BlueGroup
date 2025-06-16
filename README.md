@@ -70,3 +70,11 @@ but this was quickly resolved by simply extracting the files of a previous commi
 guide the player, we implemented player guidance in the form of colored stones attached to doors and levers. This made the game feel a bit more navigable, and opened the door for our current work and plans: to add a map, available at checkpoints,
 and add more prompts for the user. We've all done the best we can, given that everyone has a real life outside of this project, and it's coming along rather smoothly. There weren't really any tools that were unhelpful or a hinderance, as we've kept it
 all rather simple, and stuck with the same tools as we have been using. Our final project is set to come out on schedule.
+
+# Module Six Project Log - Team Reflection
+Members Present: Matthew C, Carlos P, Ruben G, Jon B
+## The Final Release
+Overall, the final evolution of our game also came out rather smoothly. Our communication and workflow was good, and we all completed our assigned tasks. Once again there were, of course, a few hiccups. One or two corrupted files (luckily resolved before impact this time),
+a couple of commits done at the same time leading to conflicts...unfortunately stuff like this happens, but we as a team handled it with patience and grace, resolving the issues efficiently.\
+Previous evaluations were once again key in this development stage; we, of course, intended to add sounds and textures, but it certainly was the right next step. We also did change the interact button to 'E' because, we agree, that just makes sense.
+Regarding tools, we, once again, did not greatly expand our arsenal. We used the Fab library for our assets (textures, models, and sounds). There were no tools used that did not earn their place.
